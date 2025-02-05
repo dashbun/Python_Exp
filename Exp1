@@ -1,0 +1,8 @@
+
+d1 = {1: 'Swayam', 2: 'Dilesh', 3: 'Raut'}
+print(d1)
+
+d2 = dict(a = "Ruturaj", b = "Pranavakumar", c = "Lokesh")
+print(d2)
+d1.pop(1)
+d1
